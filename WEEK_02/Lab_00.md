@@ -9,7 +9,7 @@
 
 <h4>2. How many leds can you hook up with a 220k resistor in parallel before running out of voltage? </h4>
 <p> Ideally, it's better to have a resistor for every LED placed in a circuit. The good thing about parallel circuits in general is that Voltage is the same through out. Therefore, the LEDs will not run out of voltage no matter how many of them are placed within a parallel circuit. </p>
-
+<br><br>
 <hr>
 <h1> Lab 02 | Potentiometers (Knobs) </h1>
 <hr>
