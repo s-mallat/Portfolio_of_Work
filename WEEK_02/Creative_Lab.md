@@ -53,3 +53,10 @@ https://user-images.githubusercontent.com/92052904/136823225-4166c362-e230-41c7-
 <hr>
 <h1> Lab 04 | Playing with Common Sensors </h1>
 <hr>
+
+<br>
+<br>
+
+<hr>
+<h1> Lab 05 | Device from Scratch </h1>
+<hr>
