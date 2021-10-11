@@ -1,4 +1,4 @@
-<h1> Lab 00 </h1>
+<h1> Lab 00 | Leds in Serial and Parallel </h1>
 <hr>
 <h3> Week 02 Homework </h3>
 
