@@ -9,4 +9,4 @@
 
 <br>
 <hr>
-<h4>2. Reflect on creating interfaces for your body. Consider how we engage with tools – how does this impact how your body extends into the tools around you? What possibilities do you see?  </h4> 
+<h4>2. How are these materials for these sensors created? How are they disposed of? Who does that impact?</h4> 
