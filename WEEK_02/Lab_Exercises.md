@@ -62,5 +62,14 @@ https://user-images.githubusercontent.com/92052904/136823225-4166c362-e230-41c7-
 <hr>
 <p>For this lab, I chose the Ultrasonic sensor to create a device which helps me at home. In my accommodations, I have a large table placed directly in front of the sink area in the kitchen space. This table is not a part of the original room design and was left behind by the previous tenant and I somehow have a love/hate relationship with it. It's convenient because I don't have anywhere else to eat and at the same time, it blocks my path and I have to move it back and forth multiple times every single day. So, my idea for this device is to attach an ultrasonic sensor to one end of the table and as I move towards it, the sensor will detect the distance and the table will move away from the sink so I can use it. Later, when I move away from the sensor, the table will move back to it's original position. </p>
 
+<p>Steps to create the device:</p>
+<ol>
+  <li>1. Use MDF boards to create the platform that the table will stand on.</li>
+  <li>2. Attach wheels to each end of the board and connect them through wires (not sure how to physically build this).</li>
+  <li>3. Attach wires to Arduino. Set up the Ultrasonic sensor by connecting it to the Arduino and then attach it to the leg of the table</li>
+  <li>4. Connect the ultrasonic sensor to a servo library through an if function.</li>
+  <li>5. Any distance below 15 cm will allow the table wheels to move backwards away from the sink area and vice versa.</li>
+</ol>
+
 ![Untitled_Artwork 64](https://user-images.githubusercontent.com/92052904/137034233-1ffc47d3-2274-4466-beb7-e9eaef70f288.jpg)
 <p>^ Sketch of the space. The yellow area shows a board with wheels for the table attached to the sensor on the upper leg of the table.</p>
