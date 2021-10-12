@@ -64,12 +64,12 @@ https://user-images.githubusercontent.com/92052904/136823225-4166c362-e230-41c7-
 
 <p>Steps to create the device:</p>
 <ol>
-  <li>1. Use MDF boards to create the platform that the table will stand on.</li>
-  <li>2. Attach wheels to each end of the board and connect them through wires. The wires will be connected to a servo motor which will allow the wheels to move when programmed into an arduino sketch.</li>
-  <li>3. Set up the Ultrasonic sensor by connecting it to the Arduino and then attach it to the leg of the table.</li>
-  <li>4. Connect the ultrasonic sensor and the servo objects through an if/else function.</li>
-  <li>5. Any distance below 15 cm will allow the table wheels to move backwards away from the sink area and vice versa.</li>
-  <li>6. Note: I'm not actually sure if this device is physically possible to create with a 5V power source.</li>
+  <li>Use MDF boards to create the platform that the table will stand on.</li>
+  <li>Attach wheels to each end of the board and connect them through wires. The wires will be connected to a servo motor which will allow the wheels to move when programmed into an arduino sketch.</li>
+  <li>Set up the Ultrasonic sensor by connecting it to the Arduino and then attach it to the leg of the table.</li>
+  <li>Connect the ultrasonic sensor and the servo objects through an if/else function.</li>
+  <li>Any distance below 15 cm will allow the table wheels to move backwards away from the sink area and vice versa.</li>
+  <li>Note: I'm not actually sure if this device is physically possible to create with a 5V power source.</li>
 </ol>
 
 ![Untitled_Artwork 64](https://user-images.githubusercontent.com/92052904/137034233-1ffc47d3-2274-4466-beb7-e9eaef70f288.jpg)
