@@ -60,3 +60,4 @@ https://user-images.githubusercontent.com/92052904/136823225-4166c362-e230-41c7-
 <hr>
 <h1> Lab 05 | Device from Scratch </h1>
 <hr>
+![Untitled_Artwork 64](https://user-images.githubusercontent.com/92052904/137034233-1ffc47d3-2274-4466-beb7-e9eaef70f288.jpg)
