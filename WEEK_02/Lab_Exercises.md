@@ -60,5 +60,6 @@ https://user-images.githubusercontent.com/92052904/136823225-4166c362-e230-41c7-
 <hr>
 <h1> Lab 05 | Device from Scratch </h1>
 <hr>
+<p>For this lab, I chose the Ultrasonic sensor to create a device which helps me at home. In my accommodations, I have a large table placed directly in front of the sink area in the kitchen space. This table is not a part of the original room design and was left behind by the previous tenant and I somehow have a love/hate relationship with it. It's convenient because I don't have anywhere else to eat and at the same time, it blocks my path and I have to move it back and forth multiple times every single day. So, my idea for this device is to attach an ultrasonic sensor to one end of the table and as I move towards it, the sensor will detect the distance and the table will move away from the sink so I can use it. Later, when I move away from the sensor, the table will move back to it's original position. </p>
 
 ![Untitled_Artwork 64](https://user-images.githubusercontent.com/92052904/137034233-1ffc47d3-2274-4466-beb7-e9eaef70f288.jpg)
