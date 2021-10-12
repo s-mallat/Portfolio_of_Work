@@ -10,3 +10,9 @@
 <br>
 <hr>
 <h4>2. How are these materials for these sensors created? How are they disposed of? Who does that impact?</h4> 
+<p>Ideally, the most appropriate way to assemble sensors is by recycling materials and tools that we don’t need anymore. My Naturewatch Camera project is a perfect example of a sustainable project that utilizes cheap materials found in every household to assemble a camera sensor to document wildlife without human presence or our directly interference (Gaver, B et al., 2019). It’s significant to note that the impact of sensors and technology generally, depends entirely on the way they are used. For instance, sensors can help us regulate environmental problems by measuring pollution and climate change (Gabrys, J., 2019). On the other hand, these technologies can have a detrimental effect such as the case of using AIS to track ships carrying migrants to Europe (Gabrys, J., 2019). </p>
+
+<h4>References:</h4>
+<BLOCKQUOTE> Gaver, B. William Gaver, Andy Boucher, Michail Vanis, Andy Sheen, Dean Brown, Liliana Ovalle, Naho Matsuda, Amina Abbas-Nazari, and Robert Phillips. 2019. My Naturewatch Camera: Disseminating Practice Research with a Cheap and Easy DIY Design. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI '19). Association for Computing Machinery, New York, NY, USA, Paper 302, 1–13. DOI:https://doi.org/10.1145/3290605.3300532
+</BLOCKQUOTE>
+<BLOCKQUOTE>Gabrys, Jennifer. “Sensors and Sensing Practices: Reworking Experience across Entities, Environments and Technologies,” introduction for the special issue, “Sensors and Sensing Practices,” co-edited with Helen Pritchard and Lara Houston. Science, Technology & Human Values 44, no. 5 (1 July 2019 online first), doi:10.1177/0162243919860211.</BLOCKQUOTE>
