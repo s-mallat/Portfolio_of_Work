@@ -6,3 +6,7 @@
 <h4>References:</h4>
 <p> Haggard, P., Longo, M. You Are What You Touch: How Tool Use Changes the Brain's Representations of the Body, Scientific American, 2010. Available at: https://www.scientificamerican.com/article/you-are-what-you-touch/ (Accessed: 12 October 2021)</p>
 <p> Perry, P., Schedel, M. Believe by Making, Francis Taylor Press, 2022. Unreleased. Introduction and Chapter 1 </p>
+<br>
+<br>
+
+<h4>2. Reflect on creating interfaces for your body. Consider how we engage with tools – how does this impact how your body extends into the tools around you? What possibilities do you see?  </h4> 
