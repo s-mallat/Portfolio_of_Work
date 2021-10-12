@@ -69,7 +69,7 @@ https://user-images.githubusercontent.com/92052904/136823225-4166c362-e230-41c7-
   <li>Set up the Ultrasonic sensor by connecting it to the Arduino and then attach it to the leg of the table.</li>
   <li>Connect the ultrasonic sensor and the servo objects through an if/else function.</li>
   <li>Any distance below 15 cm will allow the table wheels to move backwards away from the sink area and vice versa.</li>
-  <li>Note: I'm not actually sure if this device is physically possible to create with a 5V power source.</li>
+  <li>Note: I'm not actually sure if this device is possible or would work at all with a 5V power source.</li>
 </ol>
 
 ![Untitled_Artwork 64](https://user-images.githubusercontent.com/92052904/137034233-1ffc47d3-2274-4466-beb7-e9eaef70f288.jpg)
