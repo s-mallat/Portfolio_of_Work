@@ -73,7 +73,7 @@ https://user-images.githubusercontent.com/92052904/136823225-4166c362-e230-41c7-
 </ol>
 
 ![Fabulous Waasa-Snicket](https://user-images.githubusercontent.com/92052904/137042510-92c1505f-014c-42f1-8358-e982a1e3c28c.png)
-<p>^ Tinkercad Sketch.</p>
+<p>^ Tinkercad Sketch. https://www.tinkercad.com/things/eHLRtUFjTdg-fabulous-waasa-snicket/editel </p>
 
 ![Untitled_Artwork 64](https://user-images.githubusercontent.com/92052904/137034233-1ffc47d3-2274-4466-beb7-e9eaef70f288.jpg)
 <p>^ Sketch of the space. The yellow area shows a board with wheels for the table attached to the sensor on the upper leg of the table.</p>
