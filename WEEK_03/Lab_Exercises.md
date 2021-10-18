@@ -22,3 +22,8 @@ https://user-images.githubusercontent.com/92052904/137776039-c6f1849d-b8cd-4fc5-
 
 <h1>Lab 02 | Voltage Dividers</h1>
 <hr>
+<h4>Voltage Divider using a Potentiometer</h4>
+
+https://user-images.githubusercontent.com/92052904/137778023-1dba545a-184c-4578-920a-4f88a6249bed.mp4
+
+<h4>Voltage Divider using a Light Dependent Resistor (LDR)</h4>
