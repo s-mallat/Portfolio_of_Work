@@ -36,3 +36,9 @@ https://user-images.githubusercontent.com/92052904/137782607-49044cd7-a6ad-4a59-
 <img width="698" alt="Screenshot 2021-10-18 at 6 50 19 pm" src="https://user-images.githubusercontent.com/92052904/137782660-26e7482f-0967-4ea7-83c6-4ac60846ec68.png">
 <img width="841" alt="Screenshot 2021-10-18 at 6 50 26 pm" src="https://user-images.githubusercontent.com/92052904/137782665-875726d9-74e4-4629-af65-aa16e17fd4d4.png">
 
+<br>
+<br>
+
+<h1>Lab 03 | Dark detecting Circuit</h1>
+<hr>
+
