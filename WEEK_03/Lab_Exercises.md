@@ -9,5 +9,9 @@
 <br>
 <br>
 
-<h1> Lab 01 | Serial Data </h1>
+<h1> Lab 01 | PWM (Pulse Width Modulation)  </h1>
 <hr>
+
+
+https://user-images.githubusercontent.com/92052904/137776039-c6f1849d-b8cd-4fc5-94fe-27aa8e91798b.mp4
+
