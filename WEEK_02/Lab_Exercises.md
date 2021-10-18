@@ -54,6 +54,10 @@ https://user-images.githubusercontent.com/92052904/136823225-4166c362-e230-41c7-
 <h1> Lab 04 | Playing with Common Sensors </h1>
 <hr>
 
+
+https://user-images.githubusercontent.com/92052904/137773655-d28317ed-f2f6-49b4-a0d0-57873832fbc6.mp4
+<p>^Lab 04 | Created as a group (Zeynep, Alexandre, Yan Meiyue, Sali, (2 more people_ask their names)</p>
+
 <br>
 <br>
 
