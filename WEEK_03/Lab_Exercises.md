@@ -44,3 +44,6 @@ https://user-images.githubusercontent.com/92052904/137782607-49044cd7-a6ad-4a59-
 
 https://user-images.githubusercontent.com/92052904/137903791-51a89fe9-f6f9-44e7-95ef-8365ebea19da.mp4
 
+![IMG_4218](https://user-images.githubusercontent.com/92052904/137904256-f0000d79-1cb5-4c8f-a154-b6eafdaf99ad.jpg)
+
+<img width="697" alt="Screenshot 2021-10-19 at 12 52 51 pm" src="https://user-images.githubusercontent.com/92052904/137904014-dda38459-12b0-42c1-981a-2663c3240cac.png">
