@@ -53,3 +53,12 @@ https://user-images.githubusercontent.com/92052904/137903791-51a89fe9-f6f9-44e7-
 
 <h1>Lab 03B |  Touch Sensor</h1>
 <hr>
+
+
+https://user-images.githubusercontent.com/92052904/137910780-4be5ced2-b477-4182-bf8c-4b5b0cbbaeeb.mp4
+
+![IMG_5373](https://user-images.githubusercontent.com/92052904/137910928-2cec473d-66ab-4ce9-9185-c76b599560ab.jpg)
+
+<img width="695" alt="Screenshot 2021-10-19 at 1 39 57 pm" src="https://user-images.githubusercontent.com/92052904/137911212-fd8ce549-4e4d-4ba7-8dbb-4dd5dd84a7eb.png">
+
+
