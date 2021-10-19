@@ -42,3 +42,5 @@ https://user-images.githubusercontent.com/92052904/137782607-49044cd7-a6ad-4a59-
 <h1>Lab 03 | Dark detecting Circuit</h1>
 <hr>
 
+https://user-images.githubusercontent.com/92052904/137903791-51a89fe9-f6f9-44e7-95ef-8365ebea19da.mp4
+
