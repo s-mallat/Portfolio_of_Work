@@ -21,5 +21,5 @@ https://user-images.githubusercontent.com/92052904/138879283-2a7145fc-f0ed-4d8d-
 <br>
 <br>
 
-<h1> Lab 04 | HHook up An MPR121</h1>
+<h1> Lab 04 | Hook up An MPR121</h1>
 <hr>
