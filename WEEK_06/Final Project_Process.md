@@ -10,3 +10,6 @@
 <h3>Connecting Pulse sensor + Speaker + LED</h3>
 
 <img width="1792" alt="Screenshot 2021-11-01 at 8 01 29 pm" src="https://user-images.githubusercontent.com/92052904/139733948-b7afccb3-208f-46bf-a656-34b668878ea8.png">
+
+https://user-images.githubusercontent.com/92052904/140052589-258c2221-5163-40fb-97a0-35f005e10734.mp4
+
