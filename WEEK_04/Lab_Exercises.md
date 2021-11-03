@@ -35,3 +35,5 @@ https://user-images.githubusercontent.com/92052904/138882558-431e3b11-1484-4c94-
 
 <h1> Lab 05 | The Capsense Library </h1>
 <hr>
+
+![IMG_5920](https://user-images.githubusercontent.com/92052904/140052400-d00e538a-5415-4d2c-bbdc-6a6ea7ecb420.jpg)
