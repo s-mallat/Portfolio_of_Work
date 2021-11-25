@@ -55,7 +55,59 @@ https://user-images.githubusercontent.com/92052904/137903791-51a89fe9-f6f9-44e7-
 
 https://user-images.githubusercontent.com/92052904/143504701-3de8aa8a-2e4e-47a4-be77-90dd461617f9.mp4
 
+int pin = 9;
+int pin2 = 10;
+int pin3 = 11;
 
+int brightness = 0;
+int fadeAmount = 5;
+
+int Photo_Pin = A0;
+
+void setup() {
+
+  pinMode(pin, OUTPUT);
+  pinMode(pin2, OUTPUT);
+  pinMode(pin3, OUTPUT);
+  pinMode(Photo_Pin, INPUT);
+}
+
+
+void loop() {
+ int readPhoto = analogRead(Photo_Pin);
+  
+ if (readPhoto > 50) {
+      analogWrite(pin, 0);
+      analogWrite(pin2, 0);
+      analogWrite(pin3, 0);
+
+  } else if (readPhoto < 50) {
+      analogWrite(pin, brightness);
+      analogWrite(pin2, brightness);
+      analogWrite(pin3, brightness);
+
+      brightness = brightness + fadeAmount;
+      
+      if (brightness <= 0 || brightness >= 255) {
+    fadeAmount = -fadeAmount;
+
+  } else if (readPhoto == 0) {
+      analogWrite(pin, brightness);
+      analogWrite(pin2, brightness);
+      analogWrite(pin3, brightness);
+
+      brightness = brightness + fadeAmount;
+      
+      if (brightness <= 0 || brightness >= 255) {
+    fadeAmount = -fadeAmount;
+
+  }
+  
+  delay(90);
+
+}
+}
+}
 
 <br>
 <br>
