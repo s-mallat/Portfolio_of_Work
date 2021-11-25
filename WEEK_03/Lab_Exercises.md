@@ -48,6 +48,15 @@ https://user-images.githubusercontent.com/92052904/137903791-51a89fe9-f6f9-44e7-
 
 <img width="697" alt="Screenshot 2021-10-19 at 12 52 51 pm" src="https://user-images.githubusercontent.com/92052904/137904014-dda38459-12b0-42c1-981a-2663c3240cac.png">
 
+
+<h1>Dark Detection Circuit Variation</h1>
+<hr>
+
+
+https://user-images.githubusercontent.com/92052904/143504701-3de8aa8a-2e4e-47a4-be77-90dd461617f9.mp4
+
+
+
 <br>
 <br>
 
