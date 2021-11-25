@@ -69,8 +69,37 @@ void loop() {
 
 https://user-images.githubusercontent.com/92052904/137782607-49044cd7-a6ad-4a59-8b88-75961f1ac60c.mp4
 
-<img width="698" alt="Screenshot 2021-10-18 at 6 50 19 pm" src="https://user-images.githubusercontent.com/92052904/137782660-26e7482f-0967-4ea7-83c6-4ac60846ec68.png">
 <img width="841" alt="Screenshot 2021-10-18 at 6 50 26 pm" src="https://user-images.githubusercontent.com/92052904/137782665-875726d9-74e4-4629-af65-aa16e17fd4d4.png">
+
+<h4>Arduino Code</h4>
+
+```C++
+int ledPin = 11; 
+int sensorPin = A0; 
+
+int ledValue; 
+int sensorValue;
+
+void setup() { 
+  Serial.begin (9600);
+  pinMode (ledPin, OUTPUT); 
+}
+
+void loop() {  
+  sensorValue = analogRead (sensorPin); 
+  delay (5); 
+  
+  Serial.print("Sensor Values: ");
+  Serial.println(sensorValue); 
+  
+  ledValue = sensorValue/4; 
+
+  Serial.print("LED Value: ");  
+  Serial.println(ledValue);
+ 
+  analogWrite(ledPin, ledValue); 
+}
+```
 
 <br>
 <br>
