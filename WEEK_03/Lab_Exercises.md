@@ -15,7 +15,28 @@
 
 https://user-images.githubusercontent.com/92052904/137776039-c6f1849d-b8cd-4fc5-94fe-27aa8e91798b.mp4
 
-<img width="698" alt="Screenshot 2021-10-18 at 6 06 12 pm" src="https://user-images.githubusercontent.com/92052904/137776451-9e47ef54-2e8c-4733-942a-496d365e32d3.png">
+<h4>Arduino Code</h4>
+
+```C++
+int ledPin = 9;
+int brightness = 0;
+int fadeDeg = 5;
+
+void setup() {
+  pinMode(led, OUTPUT);
+}
+
+void loop() {
+  analogWrite(ledPin, brightness);
+
+  brightness = brightness + fadeDeg;
+
+  if (brightness <= 0 || brightness >= 255) {
+    fadeDeg = -fadeDeg;
+  }
+  delay(50);
+}
+```
 
 <br>
 <br>
