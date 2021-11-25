@@ -224,7 +224,35 @@ https://user-images.githubusercontent.com/92052904/137910780-4be5ced2-b477-4182-
 
 ![IMG_5373](https://user-images.githubusercontent.com/92052904/137910928-2cec473d-66ab-4ce9-9185-c76b599560ab.jpg)
 
-<img width="695" alt="Screenshot 2021-10-19 at 1 39 57 pm" src="https://user-images.githubusercontent.com/92052904/137911212-fd8ce549-4e4d-4ba7-8dbb-4dd5dd84a7eb.png">
+<h4>Arduino Code</h4>
+
+```C++
+int touchS_pin = A0;
+int ledPin = 7;
+
+void setup() {
+  Serial.begin(9600);
+
+  pinMode(ledPin, OUTPUT);
+  pinMode(touchS_pin, INPUT);
+}
+
+void loop() {
+  int touch_value = analogRead(touchS_pin);
+
+  if (touch_value > 30) {
+    digitalWrite (ledPin, LOW);
+    }
+    
+  else if (touch_value <= 30) {
+    digitalWrite (ledPin, HIGH);
+    }
+
+  Serial.println (touch_value);
+  delay (500);
+  
+}
+```
 
 <br>
 <br>
