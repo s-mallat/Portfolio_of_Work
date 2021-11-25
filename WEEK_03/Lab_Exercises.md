@@ -111,7 +111,40 @@ https://user-images.githubusercontent.com/92052904/137903791-51a89fe9-f6f9-44e7-
 
 ![IMG_4218](https://user-images.githubusercontent.com/92052904/137904256-f0000d79-1cb5-4c8f-a154-b6eafdaf99ad.jpg)
 
-<img width="697" alt="Screenshot 2021-10-19 at 12 52 51 pm" src="https://user-images.githubusercontent.com/92052904/137904014-dda38459-12b0-42c1-981a-2663c3240cac.png">
+<h4>Arduino Code</h4>
+
+```C++
+int sensorPin = A0;// Analog pin for reading sensor data
+int ledPin = 7;
+
+void setup() {
+  Serial.begin(9600);
+  
+  pinMode(ledPin,OUTPUT);
+  pinMode(sensorPin, INPUT); 
+}
+
+void loop() {
+  
+  int light_value = analogRead(sensorPin);
+  
+  if (light_value > 50) {
+      digitalWrite (ledPin, LOW);
+  }
+
+  else if (light_value <= 50) {
+    digitalWrite (ledPin, HIGH);
+    }
+
+    else if (light_value == 0) {
+      digitalWrite (ledPin, HIGH);
+      }
+
+  Serial.println(light_value);
+  delay(1000);
+
+}
+```
 
 
 <h1>Dark Detection Circuit Variation</h1>
