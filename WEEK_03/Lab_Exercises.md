@@ -65,7 +65,7 @@ void loop() {
 ```
 
 <br><br>
-<h4>Voltage Divider using a Light Dependent Resistor (LDR)</h4>
+<h1>Voltage Divider using a Light Dependent Resistor (LDR)</h1>
 
 https://user-images.githubusercontent.com/92052904/137782607-49044cd7-a6ad-4a59-8b88-75961f1ac60c.mp4
 
