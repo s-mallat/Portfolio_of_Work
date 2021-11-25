@@ -47,7 +47,22 @@ void loop() {
 
 https://user-images.githubusercontent.com/92052904/137778023-1dba545a-184c-4578-920a-4f88a6249bed.mp4
 
-<img width="694" alt="Screenshot 2021-10-18 at 6 23 56 pm" src="https://user-images.githubusercontent.com/92052904/137778517-a300a7ba-7850-4a0b-bd8b-7161da8285fd.png">
+<h4>Arduino Code</h4>
+
+```C++
+int ledPin = 3;
+int p_Pin = A0;
+
+void setup() {
+  pinMode(ledPin, OUTPUT);                  
+  pinMode(p_Pin, INPUT);
+}
+
+void loop() {
+  int p_Reading = analogRead(p_Pin) / 4; 
+  analogWrite(ledPin, p_Reading);
+}
+```
 
 <br><br>
 <h4>Voltage Divider using a Light Dependent Resistor (LDR)</h4>
