@@ -10,6 +10,9 @@
 
 https://user-images.githubusercontent.com/92052904/138879074-0986c433-74a1-42a2-9088-2f368302099a.MOV
 
+![Copy of SERVO MOTOR](https://user-images.githubusercontent.com/92052904/144074491-0f8f62ee-144f-4c71-9fdf-0c0fd559605d.png)
+
+
 <br>
 <br>
 
@@ -17,6 +20,9 @@ https://user-images.githubusercontent.com/92052904/138879074-0986c433-74a1-42a2-
 <hr>
 
 https://user-images.githubusercontent.com/92052904/138879283-2a7145fc-f0ed-4d8d-ae15-06bdb5ee0f4d.MOV
+
+![Copy of Dc motor + Push button](https://user-images.githubusercontent.com/92052904/144074535-ca4e5a86-1a5e-4aa1-9054-672cc52845da.png)
+
 
 <br>
 <br>
