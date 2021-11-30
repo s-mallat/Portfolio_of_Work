@@ -74,6 +74,9 @@ void loop() {
 
 https://user-images.githubusercontent.com/92052904/137782607-49044cd7-a6ad-4a59-8b88-75961f1ac60c.mp4
 
+![Copy of Copy of Smashing Jofo-Waasa](https://user-images.githubusercontent.com/92052904/144074025-6bf0c6bc-056c-4ffc-a252-f57840653d1d.png)
+
+
 <img width="841" alt="Screenshot 2021-10-18 at 6 50 26 pm" src="https://user-images.githubusercontent.com/92052904/137782665-875726d9-74e4-4629-af65-aa16e17fd4d4.png">
 
 <h4>Arduino Code</h4>
