@@ -12,11 +12,6 @@
 <h1> Lab 01 | PWM (Pulse Width Modulation)  </h1>
 <hr>
 
-
-https://user-images.githubusercontent.com/92052904/137776039-c6f1849d-b8cd-4fc5-94fe-27aa8e91798b.mp4
-
-
-
 https://user-images.githubusercontent.com/92052904/144013625-21bc6398-ab16-4213-82f0-a921dcc87a56.mp4
 
 
