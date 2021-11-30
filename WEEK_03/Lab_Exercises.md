@@ -14,6 +14,7 @@
 
 https://user-images.githubusercontent.com/92052904/144013625-21bc6398-ab16-4213-82f0-a921dcc87a56.mp4
 
+![Smashing Jofo-Waasa](https://user-images.githubusercontent.com/92052904/144073365-0bb5c695-ac88-47b5-aa6b-59999db9b11d.png)
 
 
 <h4>Arduino Code</h4>
@@ -47,6 +48,9 @@ void loop() {
 <h4>Voltage Divider using a Potentiometer</h4>
 
 https://user-images.githubusercontent.com/92052904/137778023-1dba545a-184c-4578-920a-4f88a6249bed.mp4
+
+![Copy of Smashing Jofo-Waasa](https://user-images.githubusercontent.com/92052904/144073425-233160ee-f61f-4934-903a-6703e3ff2d9e.png)
+
 
 <h4>Arduino Code</h4>
 
