@@ -9,7 +9,7 @@ Yes! A doctor said that to me once.
 Therefore, I wanted to create a device that helps people who find themselves often trapped in their own negative thoughts becoming spectators of the outer world while they remain bystanders stuck inside an invisible bubble. In other words, this device measures the user's stress levels and attempts to ground them (make the user focus on outside stimuli as a way to distract the them) and help them overcome high levels of agitation and stress.</p>
 <br><hr><br>
 <h3>Project Objectives</h3>
-| Conceptual Objectives | Technical Objectives |
+<p>| Conceptual Objectives | Technical Objectives |
 | --------------------- | -------------------- |
-| To create a device that helps alleviate high stress levels / agitation and panic attacks. | To design and create a device that integrates several inputs & outputs to reach a better understanding of Arduino, sensors, motors and so on. |
+| To create a device that helps alleviate high stress levels / agitation and panic attacks. | To design and create a device that integrates several inputs & outputs to reach a better understanding of Arduino, sensors, motors and so on. |</p>
 
