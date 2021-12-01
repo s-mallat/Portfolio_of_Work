@@ -42,4 +42,5 @@ Another direction I can think of is adding different distraction exercises to th
 <br><hr><br>
 
 <h1>Device & How it Works</h1>
+
 https://youtu.be/0Q_KSNYUGjA
