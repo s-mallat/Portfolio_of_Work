@@ -10,6 +10,9 @@ https://user-images.githubusercontent.com/92052904/143033102-f8613893-3970-4784-
 <br><br>
 
 <h1>Week 07</h1>
+<h4>Powering the Vibration Motor using 9V Battery, a transistor, and a switch</h4>
 
 https://user-images.githubusercontent.com/92052904/144237911-4814f637-31c0-4b7b-89f0-57b6b22be031.mp4
 
+<br>
+<h4>Powering the Vibration Motor a relay and MPR121 as a switch</h4>
