@@ -11,3 +11,5 @@ Therefore, I wanted to create a device that helps people who find themselves oft
 <h3>Project Objectives</h3>
 Conceptual Objectives | Technical Objectives
 --------------------- | --------------------
+To create a device that helps alleviate high stress levels / agitation and panic attacks. | To design and create a device that integrates several inputs & outputs to reach a better understanding of Arduino, sensors, motors and so on. 
+
