@@ -49,6 +49,8 @@ Another direction I can think of is adding different distraction exercises to th
 
 <h1>Photo Documentation</h1>
 
+![IMG_6215](https://user-images.githubusercontent.com/92052904/144264970-44b43327-925a-49dd-a101-a1acee7247ad.jpg)
+
 ![IMG_6216](https://user-images.githubusercontent.com/92052904/144264576-73f722b9-3399-448f-ab91-3334f2792cf8.jpg)
 
 ![IMG_6218](https://user-images.githubusercontent.com/92052904/144264592-00566f4b-e17d-41ae-982b-7bd03d2a2524.jpg)
@@ -56,5 +58,3 @@ Another direction I can think of is adding different distraction exercises to th
 ![IMG_6219](https://user-images.githubusercontent.com/92052904/144264598-fe50acf6-474d-40aa-9ad2-13b63fcf7835.jpg)
 
 ![IMG_6220](https://user-images.githubusercontent.com/92052904/144264606-0f7bc149-72ac-412b-a0d8-a8148fbe4a79.jpg)
-
-![IMG_6215](https://user-images.githubusercontent.com/92052904/144264970-44b43327-925a-49dd-a101-a1acee7247ad.jpg)
