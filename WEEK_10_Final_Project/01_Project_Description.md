@@ -61,6 +61,12 @@ Another direction I can think of is adding different distraction exercises to th
 
 <br><hr><br>
 
+<h1>The Circuit</h1>
+
+![PCOMP_Final Circuit](https://user-images.githubusercontent.com/92052904/144266032-6bbc8f6d-fbe1-4544-acf2-6ef4a1ce8d1f.jpg)
+
+<br><hr><br>
+
 <h1>Final Code</h1>
 
 ```C++
@@ -330,10 +336,4 @@ for (int j = 151; j >= 0; j--) { // Ramp down from 255 to 0
 }
 }
 ```
-
-<br><hr><br>
-
-<h1>The Circuit</h1>
-
-[PCOMP_Final Circuit.pdf](https://github.com/s-mallat/Portfolio_of_Work/files/7635266/PCOMP_Final.Circuit.pdf)
 
