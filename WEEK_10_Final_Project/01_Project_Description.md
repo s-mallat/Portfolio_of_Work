@@ -49,8 +49,6 @@ Another direction I can think of is adding different distraction exercises to th
 
 <h1>Photo Documentation</h1>
 
-![IMG_6215](https://user-images.githubusercontent.com/92052904/144264547-cb6d29ce-6902-4cb7-91b5-02217c6ec36a.jpg)
-
 ![IMG_6216](https://user-images.githubusercontent.com/92052904/144264576-73f722b9-3399-448f-ab91-3334f2792cf8.jpg)
 
 ![IMG_6218](https://user-images.githubusercontent.com/92052904/144264592-00566f4b-e17d-41ae-982b-7bd03d2a2524.jpg)
