@@ -4,7 +4,8 @@
 <h1>Device & How it Works<br> Link ----> https://youtu.be/0Q_KSNYUGjA </h1>
 <hr>
 
-![IMG_6186](https://user-images.githubusercontent.com/92052904/144264123-7753b47d-0718-468d-8fe4-c4a45b6b7a3f.jpg)
+<img width="1264" alt="Screenshot 2021-12-01 at 3 35 07 pm" src="https://user-images.githubusercontent.com/92052904/144264282-eff5d245-f3a9-4291-96f3-13df8b8214ed.png">
+
 
 <h1>Project Concept</h1>
 
