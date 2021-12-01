@@ -41,6 +41,4 @@ Another direction I can think of is adding different distraction exercises to th
 
 <br><hr><br>
 
-<h1>Device & How it Works</h1>
-
-<h1>Youtube Link ---->>> https://youtu.be/0Q_KSNYUGjA </h1>
+<h1>Device & How it Works<br>Youtube Link ---->>> https://youtu.be/0Q_KSNYUGjA </h1>
