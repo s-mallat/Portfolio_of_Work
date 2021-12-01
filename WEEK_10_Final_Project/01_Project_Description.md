@@ -12,9 +12,3 @@ Therefore, I wanted to create a device that helps people who find themselves oft
 <p>| Conceptual Objectives | Technical Objectives |
 | --------------------- | -------------------- |
 | To create a device that helps alleviate high stress levels / agitation and panic attacks. | To design and create a device that integrates several inputs & outputs to reach a better understanding of Arduino, sensors, motors and so on. |</p>
-
-| Column 1 Header | Column 2 Header | Column 3 Header |
-2| --------------- | --------------- | --------------- |
-3| Row 1 Column 1 | Row 1 Column 2 | Row 1 Column 3 |
-4| Row 2 Column 1 | Row 2 Column 2 | Row 2 Column 3 |
-5| Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 |
