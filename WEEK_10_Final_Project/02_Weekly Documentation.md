@@ -25,4 +25,12 @@ https://user-images.githubusercontent.com/92052904/144237911-4814f637-31c0-4b7b-
 
 https://user-images.githubusercontent.com/92052904/144238583-79cc1ade-ea51-41c5-b88f-0d8a217cd466.mp4
 
+<br><br>
+
+<h1>Week 08</h1>
+
+<br>
+<h4>Full Circuit & how it works on a breadboard and connected to laptop and 9V for now</h4>
+
+https://user-images.githubusercontent.com/92052904/144239673-1c67aa22-c301-4bf0-8c3d-01eb1e9ccde0.mp4
 
