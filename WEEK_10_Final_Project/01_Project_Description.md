@@ -38,3 +38,7 @@ body immersive experience. I'm just imagining a device that can be worn around t
 <br><br>
 To further elaborate on this point, it would also be fun to connect the device to a screen via bluetooth. This screen creates or plots colorful patterns using the GSR values. I'm thinking along the lines of something extremely colorful and fun to look at. For example, designs that are similar to GLSL fragment shaders.
 Another direction I can think of is adding different distraction exercises to the device. For now, the  device uses LEDs as a slow breathing exercise for the user and the vibration motor to create a shock stimuli. However, I can easily invision this device with a sound element to it along with simple games. For example, creating a game where the user is required to touch different areas around their body to turn off the LEDs (similar to Whac-A-Mole arcade game but involving touch only)! This can easily be done using a capacitive touch library or even the MPR121 which is already being used in this project to control the vibration motor.
+
+<br><hr><br>
+
+<h1>Device & How it Works</h1>
