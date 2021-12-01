@@ -3,6 +3,8 @@
 
 <h1>Week 06</h1>
 
+This week was dedicated towards familiarizing myself with different sensors, how to use their arduino libraries, and putting the circuit together on the regular Arduino Leonardo.  I initially started using the Pulse Sensor, then later switched to the Galvanic Skin Response instead. 
+
 <h4>Powering the Vibration Motor on Arduino Leonardo</h4>
 
 https://user-images.githubusercontent.com/92052904/142780093-2c905b6c-209c-4c20-a399-c2ec93b9830d.mp4
@@ -11,6 +13,10 @@ https://user-images.githubusercontent.com/92052904/142780093-2c905b6c-209c-4c20-
 <h4>Connecting the motor and LEDs</h4>
 
 https://user-images.githubusercontent.com/92052904/143033102-f8613893-3970-4784-8350-c74c55fb5860.mp4
+
+![IMG_6024](https://user-images.githubusercontent.com/92052904/144283436-3acf0a6e-caed-41e2-ae29-5bae09181f06.jpg)
+
+![IMG_5910](https://user-images.githubusercontent.com/92052904/144283538-12d37cdc-ff54-46d2-9152-83c43e6ab890.jpg)
 
 <br><br>
 
