@@ -33,3 +33,15 @@ https://user-images.githubusercontent.com/92052904/144238583-79cc1ade-ea51-41c5-
 
 https://user-images.githubusercontent.com/92052904/144239673-1c67aa22-c301-4bf0-8c3d-01eb1e9ccde0.mp4
 
+
+<br><br>
+
+<h1>Week 09 & 10</h1>
+
+<h4>Fully Soldered Circuit</h4>
+
+
+
+
+https://user-images.githubusercontent.com/92052904/144241458-51633d00-26ae-4557-89eb-f7ea399e6ad6.mp4
+
