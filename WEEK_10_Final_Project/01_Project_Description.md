@@ -15,7 +15,7 @@ Therefore, I wanted to create a device that helps people who find themselves oft
 | Conceptual Objectives  | Technical Objectives |
 | ------------- | ------------- |
 | To create a device that helps alleviate high stress levels / agitation and panic attacks  | To design and create a device that integrates several inputs & outputs to reach a better understanding of Arduino, sensors, motors and so on  |
-| Content Cell  | Content Cell  |
+| To reduce the fear factor associated with panic attacks which plays a huge part in triggering them to begin with. This is done by showing people that panic attacks aren't really that scary once one learns how to control them using specific exercises | To develop a stronger familiarity with schematic drawings and how to move from a circuit diagram to physically building it and putting together  |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
